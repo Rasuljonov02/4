@@ -1,7 +1,6 @@
 import { randomNumber } from "./utils.js";
 import { OPERATIONS, INTERVAL, MAX_SECOND, MIN_SECOND, MAX_COUNT } from "./constants.js";
-
-// DOM VARIABLES
+ // DOM VARIABLES
 const gameZone = document.querySelector(".game-zone");
 const resultZone = document.querySelector(".result-zone");
 const orderNumberElm = document.querySelector(".order");
