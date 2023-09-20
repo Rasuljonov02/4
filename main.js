@@ -1,2 +1,1 @@
-const increment = document.querySelector(".increment");
-const decrement = document.querySelector(".decrement");
+const btn = document.querySelector("button");
